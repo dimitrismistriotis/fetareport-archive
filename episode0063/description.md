@@ -9,11 +9,11 @@
 5. ερωτήσεις που στείλατε σχετικές με πανεπιστήμια και εύρεση εργασίας,
 6. μια μικρή βιβλιοπαρουσίαση, και άλλα.
 
-Λίκς:
+Λίνκς:
 
 * Μας αφήνετε ηχητικό μήνυμα εδώ: <https://anchor.fm/fetareport/message>
 * Austin Kleon, fan mail συζήτηση στο "Steal like an artist": <https://austinkleon.com/steal/>
-* Επεισόδιο "Θεία Σοφία", εκεί έγινε και η αναφορά στη μήνυση για την οποία ήθελε να μάθει ο Γουϊλιαμ και ο Νίκος: <https://www.fetareport.gr/podcast/58>
+* Επεισόδιο "Θεία Σοφία", εκεί έγινε και η αναφορά στη μήνυση για την οποία ήθελε να μάθει ο Γουίλιαμ και ο Νίκος: <https://www.fetareport.gr/podcast/58>
 * Fanzines ορισμοί: <https://en.wikipedia.org/wiki/Fanzine>, <https://www.thefreedictionary.com/fanzine>, <https://www.dictionary.com/browse/fanzine>
 * Συζήτηση/Εισαγωγή στο Dark Web (σχόλιο Akira): <https://www.fetareport.gr/podcast/61>
 * Video "London is a Sh*thole": <https://www.youtube.com/watch?v=gzVJw1-YrkM>. Όπου μαθαίνουμε πως ο Δημήτρης έχει προσωπικό περιστατικό το οποίο όμως δεν έχει συμβεί στον ίδιο (!).
