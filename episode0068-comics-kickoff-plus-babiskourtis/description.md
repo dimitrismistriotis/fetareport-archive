@@ -7,7 +7,7 @@
 * Care direct: <https://www.caredirect.com/?utm_source=feta_report_podcast>
 * 1917 movie: <https://www.imdb.com/title/tt8579674>
 * Low profile: <http://lowprofilewhiskybar.gr/?utm_source=feta_report_podcast>
-* 1800: < https://jemmacomics.com/1800-1-pateras>
+* 1800: <https://jemmacomics.com/1800-1-pateras>
 * Unforgiven: <https://www.imdb.com/title/tt0105695/>
 * Χαλασμός της Κλεφτουριάς: <https://www.rassias.gr/1024.html>
 * Ηρακλής: <https://www.facebook.com/HERAKLESofficialPage>
@@ -17,7 +17,7 @@
 
 Λινκς από/για τον Μπάμπη:
 
-* Zenescope Entertainment http://www.zenescope.com/
+* Zenescope Entertainment <http://www.zenescope.com/>
 * Humanoids: <https://www.humanoids.com/>
 * Babis@Facebook: <https://www.facebook.com/babisu.kourtis>
 * Babis@Instagram: <https://www.instagram.com/babisu_kourtis/>
