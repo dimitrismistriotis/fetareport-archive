@@ -7,4 +7,3 @@
 * Από το μηδέν στο ένα: <https://www.goodreads.com/book/show/18050143-zero-to-one>
 * Η Μονάδα: <https://www.goodreads.com/review/show/3108986170>
 * Νεκρονομικόν: Το χειρόγραφο των νεκρών: <https://www.goodreads.com/review/show/3139888465>
-
