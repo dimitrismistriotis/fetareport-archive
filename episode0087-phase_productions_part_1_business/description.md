@@ -7,4 +7,5 @@
 Λινκς
 
 - <https://www.facebook.com/epifanycomics/>
-- Βασίλης Χειλάς Goodreads: <https://www.goodreads.com/author/show/17811305._>
+- Βασίλης Χειλάς στο Goodreads: <https://www.goodreads.com/author/show/17811305._>
+
