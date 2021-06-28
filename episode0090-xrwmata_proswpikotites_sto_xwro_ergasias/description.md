@@ -15,8 +15,8 @@
 
 * https://www.goodreads.com/book/show/22085568-the-culture-map
 * https://www.goodreads.com/book/show/21555970-the-wake
-* www.goodreads.com/book/show/18259637-lazarus-vol-1
-* www.goodreads.com/book/show/17345319-thrud-the-barbarian
+* https://www.goodreads.com/book/show/18259637-lazarus-vol-1
+* https://www.goodreads.com/book/show/17345319-thrud-the-barbarian
 * https://www.goodreads.com/book/show/24800369-retroworld-vol-1
 * https://www.goodreads.com/book/show/15719.Marvel_1602
 * www.goodreads.com/book/show/13591145-economix
