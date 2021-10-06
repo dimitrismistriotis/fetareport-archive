@@ -1,0 +1,639 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.1.0" title="Shotcut version 21.09.13" producer="main_bin">
+  <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" title="Shotcut version 21.09.13" out="00:44:33.480">
+    <property name="length">00:44:33.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">episode000093-epifany_making_of.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">1e612f0ffa8d79b3d8868cb0149086af</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">episode000093-epifany_making_of.mp3</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="xml">was here</property>
+  </chain>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-01.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">262392d5a928b588dbea026555946f9d</property>
+    <property name="creation_time">2021-09-20T10:44:55</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-02.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">861f5867ea40e44e13f6c116387c59ff</property>
+    <property name="creation_time">2021-09-20T10:45:04</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-03.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">8d569bda11daa522858b2d86ad0bca25</property>
+    <property name="creation_time">2021-09-20T10:45:10</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-04.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">4689de9c938ffdb7ccd77ecf22222716</property>
+    <property name="creation_time">2021-09-20T10:45:18</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-05.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">8f7b1466ebfe05a4cefb847fb576a6b1</property>
+    <property name="creation_time">2021-09-20T10:45:26</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-06.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">f12ecc68225b38c4e892367aa899b251</property>
+    <property name="creation_time">2021-09-20T10:45:34</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-07.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">a4924a510f382e37f62613a5c8721a34</property>
+    <property name="creation_time">2021-09-20T10:45:40</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-08.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">ba9b568d8ba624191d7f420514384f00</property>
+    <property name="creation_time">2021-09-20T10:45:51</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-09.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">074a256fd4a2cd1e5e897ba0afe30bc8</property>
+    <property name="creation_time">2021-09-20T10:45:57</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-10.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">1a582f4bb0eab723c8bcf9731fdb5249</property>
+    <property name="creation_time">2021-09-20T10:46:04</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-11.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">4fa8c5b5552d29d999e08cab409bc940</property>
+    <property name="creation_time">2021-09-20T10:46:10</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/title.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d942ffa5cb7d5f446502cbceb96115cd</property>
+    <property name="creation_time">2021-09-20T08:52:08</property>
+    <property name="xml">was here</property>
+  </producer>
+  <chain id="chain1" out="00:00:19.000">
+    <property name="length">00:00:19.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">video_samples/phantom_duck-talking-no_sound.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5cc03346592fcc089c03874e28e0da8a</property>
+  </chain>
+  <chain id="chain2" out="00:00:05.000">
+    <property name="length">00:00:05.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">video_samples/phantom_duck-berserk_books-no_sound.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d0cd768ea8d8f4f52275698bec049b76</property>
+  </chain>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:44:33.480"/>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:03.960"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:19.000"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:05.000"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:44:33.480">
+    <property name="length">00:44:33.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:44:33.480"/>
+  </playlist>
+  <chain id="chain3" title="Shotcut version 21.09.13" out="00:44:33.480">
+    <property name="length">00:44:33.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">episode000093-epifany_making_of.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">1e612f0ffa8d79b3d8868cb0149086af</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">episode000093-epifany_making_of.mp3</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="xml">was here</property>
+  </chain>
+  <playlist id="playlist0">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <property name="shotcut:lock">1</property>
+    <entry producer="chain3" in="00:00:00.000" out="00:44:33.480"/>
+  </playlist>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-02.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">861f5867ea40e44e13f6c116387c59ff</property>
+    <property name="creation_time">2021-09-20T10:45:04</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-02.jpg</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-01.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">262392d5a928b588dbea026555946f9d</property>
+    <property name="creation_time">2021-09-20T10:44:55</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-01.jpg</property>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-03.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">8d569bda11daa522858b2d86ad0bca25</property>
+    <property name="creation_time">2021-09-20T10:45:10</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-03.jpg</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-04.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">4689de9c938ffdb7ccd77ecf22222716</property>
+    <property name="creation_time">2021-09-20T10:45:18</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-04.jpg</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-05.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">8f7b1466ebfe05a4cefb847fb576a6b1</property>
+    <property name="creation_time">2021-09-20T10:45:26</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-05.jpg</property>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-06.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">f12ecc68225b38c4e892367aa899b251</property>
+    <property name="creation_time">2021-09-20T10:45:34</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-06.jpg</property>
+  </producer>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-07.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">a4924a510f382e37f62613a5c8721a34</property>
+    <property name="creation_time">2021-09-20T10:45:40</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-07.jpg</property>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-08.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">ba9b568d8ba624191d7f420514384f00</property>
+    <property name="creation_time">2021-09-20T10:45:51</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-08.jpg</property>
+  </producer>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-09.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">074a256fd4a2cd1e5e897ba0afe30bc8</property>
+    <property name="creation_time">2021-09-20T10:45:57</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-09.jpg</property>
+  </producer>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-10.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">1a582f4bb0eab723c8bcf9731fdb5249</property>
+    <property name="creation_time">2021-09-20T10:46:04</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-10.jpg</property>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-11.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">4fa8c5b5552d29d999e08cab409bc940</property>
+    <property name="creation_time">2021-09-20T10:46:10</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-11.jpg</property>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-02.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">861f5867ea40e44e13f6c116387c59ff</property>
+    <property name="creation_time">2021-09-20T10:45:04</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-02.jpg</property>
+  </producer>
+  <producer id="producer24" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-10.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">1a582f4bb0eab723c8bcf9731fdb5249</property>
+    <property name="creation_time">2021-09-20T10:46:04</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-10.jpg</property>
+  </producer>
+  <producer id="producer25" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-11.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">4fa8c5b5552d29d999e08cab409bc940</property>
+    <property name="creation_time">2021-09-20T10:46:10</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-11.jpg</property>
+  </producer>
+  <producer id="producer26" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/episode_93-09.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">074a256fd4a2cd1e5e897ba0afe30bc8</property>
+    <property name="creation_time">2021-09-20T10:45:57</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">episode_93-09.jpg</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <property name="shotcut:lock">1</property>
+    <entry producer="producer12" in="00:00:00.000" out="00:03:00.000"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:02:59.800"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:03:00.040"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:02:59.000"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:03:00.560"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:03:00.560"/>
+    <entry producer="producer18" in="00:00:00.000" out="00:03:00.040"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:02:59.520"/>
+    <entry producer="producer20" in="00:00:00.000" out="00:02:59.800"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:03:00.320"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:03:00.040"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:03:00.320"/>
+    <entry producer="producer24" in="00:00:00.000" out="00:02:59.520"/>
+    <entry producer="producer25" in="00:00:00.000" out="00:03:00.560"/>
+    <entry producer="producer26" in="00:00:00.000" out="00:02:32.840"/>
+  </playlist>
+  <producer id="producer27" in="00:00:00.000" out="03:59:59.960">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">hero_images/title.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="shotcut:hash">d942ffa5cb7d5f446502cbceb96115cd</property>
+    <property name="creation_time">2021-09-20T08:52:08</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">title.png</property>
+    <filter id="filter0" out="00:44:33.480">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">-2.6087 900.304 1892.44 179.151 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <property name="shotcut:lock">1</property>
+    <entry producer="producer27" in="00:00:00.000" out="00:44:33.480"/>
+  </playlist>
+  <chain id="chain4" out="00:00:05.000">
+    <property name="length">00:00:05.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">video_samples/phantom_duck-berserk_books-no_sound.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d0cd768ea8d8f4f52275698bec049b76</property>
+    <property name="shotcut:caption">phantom_duck-berserk_books-no_sound.mkv</property>
+    <filter id="filter1" out="00:00:05.000">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">315.072 143.478 1326.38 746.087 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <chain id="chain5" out="00:00:19.000">
+    <property name="length">00:00:19.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">video_samples/phantom_duck-talking-no_sound.mkv</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">5cc03346592fcc089c03874e28e0da8a</property>
+    <property name="shotcut:caption">phantom_duck-talking-no_sound.mkv</property>
+    <filter id="filter2" out="00:00:19.000">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">201.739 65.2174 1516.52 853.043 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <playlist id="playlist3">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V3</property>
+    <blank length="00:12:55.240"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:00:05.000"/>
+    <blank length="00:00:06.000"/>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:19.000"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.09.13" in="00:00:00.000" out="00:44:33.480">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">0.107336</property>
+    <track producer="background"/>
+    <track producer="playlist0" hide="video"/>
+    <track producer="playlist1"/>
+    <track producer="playlist2"/>
+    <track producer="playlist3"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">2</property>
+      <property name="b_track">3</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">2</property>
+      <property name="b_track">4</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
