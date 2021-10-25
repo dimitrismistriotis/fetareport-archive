@@ -1,0 +1,1153 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.1.0" title="Shotcut version 21.09.20" producer="main_bin">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="60" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" out="00:32:04.483">
+    <property name="length">00:32:04.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/dimitry/Desktop/1821_i_arxi/1821_video_for_editing.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">71d7f7fd5a610f4d9851005e0439f421</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">1821_video_for_editing.mp4</property>
+    <property name="xml">was here</property>
+  </chain>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/title.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-13T11:51:14</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4c83fd5ec2e8bbe8a2d8f428ee9a4d87</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="03:59:59.967">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/dimitry/Desktop/centered_logo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-07-19T09:53:25</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0fef4ec5bcad304a5b032b37bf1fa80d</property>
+  </producer>
+  <chain id="chain1" out="00:00:10.000">
+    <property name="length">00:00:10.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/dimitry/Desktop/feta-intro.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b38f3110177feed9f9d7d6f4a876dc9a</property>
+  </chain>
+  <producer id="producer2" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FFEEEEEC</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">#FFEEEEEC</property>
+    <property name="shotcut:detail">#FFEEEEEC</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/01_book_cover.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-12T13:13:32</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a0fcd36c0404cbf89263996fa7cff1d7</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/02-napoleonic.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-12T13:29:18</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">326cf7ce122a1a8301fbbe6ba5df9a42</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/02-napoleonic_in_book.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-04T10:37:05</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">14ab08207f53e8aabd88c110565aaf30</property>
+  </producer>
+  <chain id="chain2" out="00:00:18.383">
+    <property name="length">00:00:18.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">video_samples/01-ieros_loxos_parade.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">61bbbf173685bad4d0705ab12a7b240a</property>
+  </chain>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/03-ieros_loxos_ptisi_kai_diastima.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-13T12:03:23</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4203fa8e7b61ca8e9cb2838c7c6f3464</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/04-guards-802421_1920.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-13T12:22:48</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">00c6d40678d7258979488291bec82f10</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/05-oikogenneia_upsilanti.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-13T12:54:15</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">da83bcb7ca8de78d018a17b9d30657ea</property>
+  </producer>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/06-russian_tukish_war.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-13T13:09:33</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">95bad376ee3ce6ba69e04e2fa20ef31f</property>
+  </producer>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/07-printed.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-04T11:39:58</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6ec0f11e51d4e71b95b6c225ed7d907a</property>
+  </producer>
+  <chain id="chain3" out="00:02:06.067">
+    <property name="length">00:02:06.083</property>
+    <property name="eof">pause</property>
+    <property name="resource">video_samples/02-beginning_trailer_no_sound.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e0b94e5eec31a3ff544fcfbb53380d43</property>
+  </chain>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/08-sourlas.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-09-28T16:15:13</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">da718c38b224a511a7d5ed46dcbb68d5</property>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/09-QR_code.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-14T15:31:00</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d22e75d254d0b8214740a6efd3100d92</property>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter0" out="00:00:03.983">
+      <property name="argument">QR code @YT
+τι μας έπιασε;</property>
+      <property name="geometry">1169 810 751 270 1</property>
+      <property name="family">Sans</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <producer id="producer14" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/10-maxi_tis_plateias.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-14T15:41:45</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4540a24c12eee1aed39126e514dc1038</property>
+  </producer>
+  <producer id="producer15" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/11-eagles_of_rome.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-14T16:13:11</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f51530588b19244b43ac93f2fa1c8add</property>
+  </producer>
+  <producer id="producer16" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FF000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">#FF000000</property>
+    <property name="shotcut:detail">#FF000000</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+  </producer>
+  <producer id="producer17" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/12-ipsilantis.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-04T10:37:18</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9fd086a528c621bf15ac131ad586afd2</property>
+  </producer>
+  <chain id="chain4" out="00:00:14.800">
+    <property name="length">00:00:14.817</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/dimitry/fetareport/fade_out.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ab5a9dcb4d71abbe66d42bc49c97143d</property>
+  </chain>
+  <playlist id="main_bin" title="Shotcut version 21.09.20">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="00:32:04.483"/>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:03.967"/>
+    <entry producer="chain1" in="00:00:00.000" out="00:00:10.000"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="chain2" in="00:00:00.000" out="00:00:18.383"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer9" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer10" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="chain3" in="00:00:00.000" out="00:02:06.067"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer14" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer15" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer16" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="producer17" in="00:00:00.000" out="00:00:03.983"/>
+    <entry producer="chain4" in="00:00:00.000" out="00:00:14.800"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:32:44.950">
+    <property name="length">00:32:44.967</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:32:44.950"/>
+  </playlist>
+  <producer id="producer18" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FFFFFFFF</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">#FFFFFFFF</property>
+    <property name="shotcut:detail">#FFFFFFFF</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+  </producer>
+  <producer id="producer19" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FF000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">#FF000000</property>
+    <property name="shotcut:detail">#FF000000</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">single_colour_background</property>
+    <entry producer="producer18" in="00:00:00.000" out="00:00:16.100"/>
+    <blank length="00:31:58.400"/>
+    <entry producer="producer19" in="00:00:00.000" out="00:00:30.150"/>
+  </playlist>
+  <chain id="chain5" out="00:00:10.000">
+    <property name="length">00:00:10.040</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/dimitry/Desktop/feta-intro.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">b38f3110177feed9f9d7d6f4a876dc9a</property>
+    <property name="shotcut:caption">feta-intro.m4a</property>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">intro and outro</property>
+    <property name="shotcut:lock">0</property>
+    <entry producer="chain5" in="00:00:00.000" out="00:00:10.000"/>
+  </playlist>
+  <producer id="producer20" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/dimitry/Desktop/centered_logo.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-07-19T09:53:25</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">0fef4ec5bcad304a5b032b37bf1fa80d</property>
+    <property name="shotcut:caption">centered_logo.png</property>
+  </producer>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">intro_background_image</property>
+    <entry producer="producer20" in="00:00:00.000" out="00:00:10.000"/>
+  </playlist>
+  <chain id="chain6" out="00:00:14.800">
+    <property name="length">00:00:14.817</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/dimitry/fetareport/fade_out.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ab5a9dcb4d71abbe66d42bc49c97143d</property>
+    <property name="shotcut:caption">fade_out.mp3</property>
+  </chain>
+  <playlist id="playlist3">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A2</property>
+    <blank length="00:32:30.150"/>
+    <entry producer="chain6" in="00:00:00.000" out="00:00:14.800"/>
+  </playlist>
+  <chain id="chain7" out="00:32:04.500">
+    <property name="length">00:32:04.520</property>
+    <property name="eof">pause</property>
+    <property name="resource">/home/dimitry/Desktop/1821_i_arxi/1821_video_for_editing.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">71d7f7fd5a610f4d9851005e0439f421</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">1821_video_for_editing.mp4</property>
+    <property name="xml">was here</property>
+    <filter id="filter1" out="00:32:04.483">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:01.483=1</property>
+      <property name="shotcut:animIn">00:00:01.500</property>
+    </filter>
+  </chain>
+  <playlist id="playlist4">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">main_video</property>
+    <property name="shotcut:lock">1</property>
+    <blank length="00:00:10.017"/>
+    <entry producer="chain7" in="00:00:00.000" out="00:32:04.483"/>
+  </playlist>
+  <producer id="producer21" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/01_book_cover.webp</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-12T13:13:32</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">a0fcd36c0404cbf89263996fa7cff1d7</property>
+    <property name="shotcut:caption">01_book_cover.webp</property>
+    <filter id="filter2" out="00:00:15.000">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">33.2362 12.7559 478.377 722.835 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer22" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/02-napoleonic.jpeg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-12T13:29:18</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">326cf7ce122a1a8301fbbe6ba5df9a42</property>
+    <property name="shotcut:caption">02-napoleonic.jpeg</property>
+    <filter id="filter3" out="00:00:07.133">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">3.77953 149.882 1159.94 724.961 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer23" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/02-napoleonic_in_book.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-04T10:37:05</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">14ab08207f53e8aabd88c110565aaf30</property>
+    <property name="shotcut:caption">02-napoleonic_in_book.jpg</property>
+    <filter id="filter4" out="00:00:03.983">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">623.326 240.236 503.636 761.102 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter5" out="00:00:03.983">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:03.000=1;00:00:03.983=0</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <chain id="chain8" out="00:00:18.383">
+    <property name="length">00:00:18.400</property>
+    <property name="eof">pause</property>
+    <property name="resource">video_samples/01-ieros_loxos_parade.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">61bbbf173685bad4d0705ab12a7b240a</property>
+    <property name="shotcut:caption">01-ieros_loxos_parade.mp4</property>
+    <filter id="filter6" out="00:00:18.383">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:02.483=1</property>
+      <property name="shotcut:animIn">00:00:02.500</property>
+    </filter>
+    <filter id="filter7" out="00:00:18.383">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:15.900=1;00:00:18.383=0</property>
+      <property name="shotcut:animOut">00:00:02.500</property>
+    </filter>
+    <filter id="filter8" out="00:00:18.383">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">630.723 665.644 748.181 420.523 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </chain>
+  <producer id="producer24" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/03-ieros_loxos_ptisi_kai_diastima.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-13T12:03:23</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4203fa8e7b61ca8e9cb2838c7c6f3464</property>
+    <property name="shotcut:caption">03-ieros_loxos_ptisi_kai_diastima.jpg</property>
+    <filter id="filter9" out="00:00:14.483">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">775.067 327.402 517.194 739.843 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer25" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/04-guards-802421_1920.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-13T12:22:48</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">00c6d40678d7258979488291bec82f10</property>
+    <property name="shotcut:caption">04-guards-802421_1920.jpg</property>
+    <filter id="filter10" out="00:00:08.350">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">934.866 540 815.736 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter11" out="00:00:08.350">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:07.367=1;00:00:08.350=0</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <producer id="producer26" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/05-oikogenneia_upsilanti.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-13T12:54:15</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">da83bcb7ca8de78d018a17b9d30657ea</property>
+    <property name="shotcut:caption">05-oikogenneia_upsilanti.jpg</property>
+    <filter id="filter12" out="00:00:07.500">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">322.22 17.0079 1275.56 858.898 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer27" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/05-oikogenneia_upsilanti.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-04T10:37:09</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">079b07c97423f494f2965fa4239575a3</property>
+    <property name="shotcut:caption">05-oikogenneia_upsilanti.jpg</property>
+  </producer>
+  <producer id="producer28" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/06-russian_tukish_war.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-13T13:09:33</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">95bad376ee3ce6ba69e04e2fa20ef31f</property>
+    <property name="shotcut:caption">06-russian_tukish_war.png</property>
+    <filter id="filter13" out="00:00:07.500">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">852.685 425.197 606.751 646.299 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+  </producer>
+  <producer id="producer29" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/07-printed.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-04T11:39:58</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">6ec0f11e51d4e71b95b6c225ed7d907a</property>
+    <property name="shotcut:caption">07-printed.jpg</property>
+    <filter id="filter14" in="00:00:06.150" out="00:00:12.767">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">712.854 344.409 494.291 659.055 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <chain id="chain9" out="00:02:06.067">
+    <property name="length">00:02:06.083</property>
+    <property name="eof">pause</property>
+    <property name="resource">video_samples/02-beginning_trailer_no_sound.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">e0b94e5eec31a3ff544fcfbb53380d43</property>
+    <property name="shotcut:caption">02-beginning_trailer_no_sound.mp4</property>
+    <filter id="filter15" out="00:02:06.067">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:03.983=1</property>
+      <property name="shotcut:animIn">00:00:04.000</property>
+    </filter>
+    <filter id="filter16" out="00:02:06.067">
+      <property name="start">1</property>
+      <property name="level">00:02:02.083=1;00:02:06.067=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:04.000</property>
+    </filter>
+  </chain>
+  <producer id="producer30" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/08-sourlas.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-09-28T16:15:13</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">da718c38b224a511a7d5ed46dcbb68d5</property>
+    <property name="shotcut:caption">08-sourlas.jpg</property>
+    <filter id="filter17" in="00:00:03.717" out="00:00:30.750">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">1134.48 97.7953 761.475 476.22 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+      <property name="transition.fix_rotate_x">0</property>
+    </filter>
+    <filter id="filter18" in="00:00:03.717" out="00:00:30.750">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:25.050=1;00:00:27.033=0</property>
+      <property name="shotcut:animOut">00:00:02.000</property>
+    </filter>
+  </producer>
+  <producer id="producer31" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/09-QR_code.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-14T15:31:00</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">d22e75d254d0b8214740a6efd3100d92</property>
+    <property name="shotcut:caption">09-QR_code.jpg</property>
+    <filter id="filter19" out="00:00:15.483">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">1270.39 63.7795 531.496 531.496 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <producer id="producer32" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/10-maxi_tis_plateias.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-14T15:41:45</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">4540a24c12eee1aed39126e514dc1038</property>
+    <property name="shotcut:caption">10-maxi_tis_plateias.jpg</property>
+    <filter id="filter20" out="00:00:16.767">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">836.693 540 540 540 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter21" out="00:00:16.767">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:01.483=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.500</property>
+    </filter>
+    <filter id="filter22" out="00:00:16.767">
+      <property name="start">1</property>
+      <property name="level">00:00:15.283=1;00:00:16.767=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.500</property>
+    </filter>
+  </producer>
+  <producer id="producer33" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/11-eagles_of_rome.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-14T16:13:11</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f51530588b19244b43ac93f2fa1c8add</property>
+    <property name="shotcut:caption">11-eagles_of_rome.jpg</property>
+    <filter id="filter23" out="00:00:09.700">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">760.598 416.693 499.346 654.803 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter24" out="00:00:09.700">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:01.483=1</property>
+      <property name="shotcut:animIn">00:00:01.500</property>
+    </filter>
+    <filter id="filter25" out="00:00:09.700">
+      <property name="start">1</property>
+      <property name="level">00:00:08.217=1;00:00:09.700=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.500</property>
+    </filter>
+  </producer>
+  <producer id="producer34" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">images/12-ipsilantis.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2021-10-04T10:37:18</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">9fd086a528c621bf15ac131ad586afd2</property>
+    <property name="shotcut:caption">12-ipsilantis.jpg</property>
+    <filter id="filter26" out="00:00:29.733">
+      <property name="background">color:#00000000</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">491.534 -374.173 936.931 1415.91 1</property>
+      <property name="transition.valign">middle</property>
+      <property name="transition.halign">center</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist5">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">images_layer</property>
+    <blank length="00:00:25.150"/>
+    <entry producer="producer21" in="00:00:00.000" out="00:00:15.000"/>
+    <blank length="00:02:29.517"/>
+    <entry producer="producer22" in="00:00:00.000" out="00:00:07.133"/>
+    <entry producer="producer23" in="00:00:00.000" out="00:00:03.983"/>
+    <blank length="00:00:39.583"/>
+    <entry producer="chain8" in="00:00:00.000" out="00:00:18.383"/>
+    <blank length="00:00:06.733"/>
+    <entry producer="producer24" in="00:00:00.000" out="00:00:14.483"/>
+    <blank length="00:00:13.783"/>
+    <entry producer="producer25" in="00:00:00.000" out="00:00:08.350"/>
+    <blank length="00:00:28.317"/>
+    <entry producer="producer26" in="00:00:00.000" out="00:00:07.500"/>
+    <blank length="00:00:16.450"/>
+    <entry producer="producer27" in="00:00:00.000" out="00:00:00.067"/>
+    <blank length="00:04:06.683"/>
+    <entry producer="producer28" in="00:00:00.000" out="00:00:07.500"/>
+    <blank length="00:03:32.483"/>
+    <entry producer="producer29" in="00:00:06.150" out="00:00:12.767"/>
+    <blank length="00:03:27.083"/>
+    <entry producer="chain9" in="00:00:00.000" out="00:02:06.067"/>
+    <blank length="00:00:14.533"/>
+    <entry producer="producer30" in="00:00:03.717" out="00:00:30.750"/>
+    <blank length="00:03:41.383"/>
+    <entry producer="producer31" in="00:00:00.000" out="00:00:15.483"/>
+    <blank length="00:05:46.067"/>
+    <entry producer="producer32" in="00:00:00.000" out="00:00:16.767"/>
+    <blank length="00:01:27.333"/>
+    <entry producer="producer33" in="00:00:00.000" out="00:00:09.700"/>
+    <blank length="00:00:35.517"/>
+    <entry producer="producer34" in="00:00:00.000" out="00:00:29.733"/>
+  </playlist>
+  <producer id="producer35" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+    <filter id="filter27" out="00:00:15.483">
+      <property name="argument">QR code @YT
+τι μας έπιασε;</property>
+      <property name="geometry">1169 665 751 270 1</property>
+      <property name="family">Sans</property>
+      <property name="size">80</property>
+      <property name="weight">750</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ffffffff</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aa000000</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">top</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">1</property>
+      <property name="shotcut:pointSize">60</property>
+    </filter>
+  </producer>
+  <playlist id="playlist6">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V5</property>
+    <blank length="00:23:44.017"/>
+    <entry producer="producer35" in="00:00:00.000" out="00:00:15.483"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.09.20" in="00:00:00.000" out="00:32:44.950">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">0.049304</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <track producer="playlist2"/>
+    <track producer="playlist3" hide="video"/>
+    <track producer="playlist4"/>
+    <track producer="playlist5"/>
+    <track producer="playlist6"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">1</property>
+      <property name="b_track">3</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">0</property>
+      <property name="b_track">4</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">5</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">1</property>
+      <property name="b_track">5</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition8">
+      <property name="a_track">0</property>
+      <property name="b_track">6</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition9">
+      <property name="a_track">1</property>
+      <property name="b_track">6</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition10">
+      <property name="a_track">0</property>
+      <property name="b_track">7</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition11">
+      <property name="a_track">1</property>
+      <property name="b_track">7</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
