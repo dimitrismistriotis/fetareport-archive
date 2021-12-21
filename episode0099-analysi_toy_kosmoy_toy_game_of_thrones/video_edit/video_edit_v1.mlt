@@ -1,0 +1,772 @@
+<?xml version="1.0" standalone="no"?>
+<mlt LC_NUMERIC="C" version="7.1.0" title="Shotcut version 21.10.31" producer="main_bin">
+  <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="60" frame_rate_den="1" colorspace="709"/>
+  <chain id="chain0" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">sotiris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">971d5b3a09ff8f001e97c33ec76dd5d7</property>
+    <property name="ignore_points">0</property>
+    <property name="creation_time">2021-11-26T18:19:10</property>
+    <property name="xml">was here</property>
+  </chain>
+  <chain id="chain1" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+  </chain>
+  <chain id="chain2" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">video1388154654.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">054c8145fa9df3b50376b31f7998a281</property>
+  </chain>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="chain0" in="00:00:00.000" out="01:09:36.883"/>
+    <entry producer="chain1" in="00:00:00.000" out="01:09:36.883"/>
+    <entry producer="chain2" in="00:00:00.000" out="01:09:36.883"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:51:51.833">
+    <property name="length">00:51:51.850</property>
+    <property name="eof">pause</property>
+    <property name="resource">0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgba</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:51:51.833"/>
+  </playlist>
+  <chain id="chain3" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">sotiris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">971d5b3a09ff8f001e97c33ec76dd5d7</property>
+    <property name="ignore_points">0</property>
+    <property name="creation_time">2021-11-26T18:19:10</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">sotiris.m4a</property>
+  </chain>
+  <chain id="chain4" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">sotiris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="shotcut:hash">971d5b3a09ff8f001e97c33ec76dd5d7</property>
+    <property name="ignore_points">0</property>
+    <property name="creation_time">2021-11-26T18:19:10</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">sotiris.m4a</property>
+  </chain>
+  <playlist id="playlist0">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="chain3" in="00:12:43.983" out="00:52:28.850"/>
+    <entry producer="chain4" in="00:57:29.083" out="01:09:36.033"/>
+  </playlist>
+  <chain id="chain5" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter0" in="00:12:43.983" out="00:18:28.700">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain6" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter1" in="00:18:28.717" out="00:18:39.333">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-30.4</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain7" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter2" in="00:18:39.350" out="00:19:44.817">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain8" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter3" in="00:19:44.833" out="00:19:47.450">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-22.2</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain9" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter4" in="00:19:47.467" out="00:21:04.050">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain10" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter5" in="00:21:04.067" out="00:21:05.583">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-42.6</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain11" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter6" in="00:21:05.600" out="00:22:35.817">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain12" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter7" in="00:22:35.833" out="00:22:50.933">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-36.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain13" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter8" in="00:22:50.950" out="00:23:53.983">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain14" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter9" in="00:23:54.000" out="00:25:08.383">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-46.3</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain15" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter10" in="00:25:08.400" out="00:26:50.600">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain16" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter11" in="00:26:50.617" out="00:27:17.150">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-39.8</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain17" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter12" in="00:27:17.167" out="00:35:36.617">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain18" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter13" in="00:35:36.633" out="00:35:41.233">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-29.5</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain19" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter14" in="00:35:41.250" out="00:35:50.500">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-33.2</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain20" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter15" in="00:35:50.517" out="00:36:52.350">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain21" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter16" in="00:36:52.367" out="00:37:27.383">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">-33.2</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain22" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter17" in="00:37:27.400" out="00:37:45.500">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain23" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter18" in="00:37:45.517" out="00:37:46.333">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">0.7</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain24" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter19" in="00:37:46.350" out="00:41:37.500">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain25" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter20" in="00:41:37.517" out="00:41:58.633">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">1.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain26" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter21" in="00:41:58.650" out="00:44:08.400">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain27" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter22" in="00:44:08.417" out="00:45:01.600">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">4</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain28" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter23" in="00:45:01.617" out="00:52:28.850">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain31" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter27" in="00:57:29.083" out="00:58:23.967">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain29" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter24" in="00:58:23.983" out="00:58:34.433">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">2.7</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain30" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter25" in="00:58:34.450" out="01:08:21.167">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain32" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter26" in="01:08:21.183" out="01:08:29.950">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">3.2</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain33" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter28" in="01:08:29.967" out="01:08:51.350">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">4</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <chain id="chain34" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">dimitris.m4a</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ffdf02a07ea3462bdf2da407a3c365bc</property>
+    <property name="shotcut:caption">dimitris.m4a</property>
+    <filter id="filter29" in="01:08:51.367" out="01:09:36.033">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">17.9</property>
+      <property name="mlt_service">volume</property>
+    </filter>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">Dimitris</property>
+    <entry producer="chain5" in="00:12:43.983" out="00:18:28.700"/>
+    <entry producer="chain6" in="00:18:28.717" out="00:18:39.333"/>
+    <entry producer="chain7" in="00:18:39.350" out="00:19:44.817"/>
+    <entry producer="chain8" in="00:19:44.833" out="00:19:47.450"/>
+    <entry producer="chain9" in="00:19:47.467" out="00:21:04.050"/>
+    <entry producer="chain10" in="00:21:04.067" out="00:21:05.583"/>
+    <entry producer="chain11" in="00:21:05.600" out="00:22:35.817"/>
+    <entry producer="chain12" in="00:22:35.833" out="00:22:50.933"/>
+    <entry producer="chain13" in="00:22:50.950" out="00:23:53.983"/>
+    <entry producer="chain14" in="00:23:54.000" out="00:25:08.383"/>
+    <entry producer="chain15" in="00:25:08.400" out="00:26:50.600"/>
+    <entry producer="chain16" in="00:26:50.617" out="00:27:17.150"/>
+    <entry producer="chain17" in="00:27:17.167" out="00:35:36.617"/>
+    <entry producer="chain18" in="00:35:36.633" out="00:35:41.233"/>
+    <entry producer="chain19" in="00:35:41.250" out="00:35:50.500"/>
+    <entry producer="chain20" in="00:35:50.517" out="00:36:52.350"/>
+    <entry producer="chain21" in="00:36:52.367" out="00:37:27.383"/>
+    <entry producer="chain22" in="00:37:27.400" out="00:37:45.500"/>
+    <entry producer="chain23" in="00:37:45.517" out="00:37:46.333"/>
+    <entry producer="chain24" in="00:37:46.350" out="00:41:37.500"/>
+    <entry producer="chain25" in="00:41:37.517" out="00:41:58.633"/>
+    <entry producer="chain26" in="00:41:58.650" out="00:44:08.400"/>
+    <entry producer="chain27" in="00:44:08.417" out="00:45:01.600"/>
+    <entry producer="chain28" in="00:45:01.617" out="00:52:28.850"/>
+    <entry producer="chain31" in="00:57:29.083" out="00:58:23.967"/>
+    <entry producer="chain29" in="00:58:23.983" out="00:58:34.433"/>
+    <entry producer="chain30" in="00:58:34.450" out="01:08:21.167"/>
+    <entry producer="chain32" in="01:08:21.183" out="01:08:29.950"/>
+    <entry producer="chain33" in="01:08:29.967" out="01:08:51.350"/>
+    <entry producer="chain34" in="01:08:51.367" out="01:09:36.033"/>
+  </playlist>
+  <chain id="chain35" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">video1388154654.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">054c8145fa9df3b50376b31f7998a281</property>
+    <property name="shotcut:caption">video1388154654.mp4</property>
+  </chain>
+  <chain id="chain36" out="01:09:36.883">
+    <property name="length">01:09:36.900</property>
+    <property name="eof">pause</property>
+    <property name="resource">video1388154654.mp4</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">054c8145fa9df3b50376b31f7998a281</property>
+    <property name="shotcut:caption">video1388154654.mp4</property>
+  </chain>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <property name="shotcut:lock">0</property>
+    <entry producer="chain35" in="00:12:43.983" out="00:52:28.850"/>
+    <entry producer="chain36" in="00:57:29.083" out="01:09:36.033"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 21.10.31" in="00:00:00.000" out="00:51:51.833">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">0.453444</property>
+    <track producer="background"/>
+    <track producer="playlist0" hide="video"/>
+    <track producer="playlist1" hide="video"/>
+    <track producer="playlist2" hide="audio"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition3">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="threads">0</property>
+      <property name="disable">1</property>
+    </transition>
+  </tractor>
+</mlt>
