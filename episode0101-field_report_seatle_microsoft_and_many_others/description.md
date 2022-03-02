@@ -1,35 +1,34 @@
-# Ζωή στο Σηάτλ, εργασία στην Microsoft, Digial Democracy, NFTs και αρκετά άλλα
+# Ζωή στο Σηάτλ, εργασία στη Microsoft, Digial Democracy, NFTs και αρκετά άλλα
 
 Η γνωριμία με τον Βασίλη ξεκίνησε από μια συζήτηση στο Twitter μετά από την οποία αποφασίσαμε να κάνουμε ένα "κλασικό" φιλντ ριπορτ καθότι ζει στο Seatle ενώ επίσης εργάζεται στη Microsoft, ένας συνδυασμός που καλύπτει αρκετά κενά στις μέχρι στιγμής σχετικές συζητήσεις μας. Ενώ ηχογραφούσαμε δεν περιοριστήκαμε στα παραπάνω οπότε θίξαμε αρκετά θέματα που μας απασχολούν όπως το πως οι εταιρίες διαχειρίζονται τη γνώση τους, πως μαθαίνουν αλλά και μαθαίνουμε ατομικά, για ψηφιακή δημοκρατία, NFTs και WEB3.0, βιβλία και μέθοδοι διαβάσματος... ε, βάλαμε και λίγη πολιτική. Μια "φέτα" ταυτόχρονα "παλιά" αλλά και "πως θα είναι από εδώ και μπρος" την οποία πιστεύουμε θα απολαύσετε. Επίσης, βάλαμε και διαφημίσεις.
 
-Η αναφορά στον Δημήτρη Τσοβόλα έγινε κατά την ηχογράφηση δύο εβδομάδες πριν από τον θάνατό του οπότε οφείλεται σε σύμπτωση. Τα συλληπητήρια μας στην οικογένεια του.
+Η αναφορά στον Δημήτρη Τσοβόλα έγινε κατά την ηχογράφηση δύο εβδομάδες πριν από τον θάνατό του οπότε οφείλεται σε σύμπτωση. Τα συλληπτήρια μας στην οικογένεια του.
 
 Λινκς:
 
-Τα βιβλία που αναφέραμε μαζεμένα εδώ: https://www.goodreads.com/list/show/173542.Feta_Report_Podcast_101_with_Vasilios_Tziokas
+* Τα βιβλία που αναφέραμε μαζεμένα εδώ: <https://www.goodreads.com/list/show/173542.Feta_Report_Podcast_101_with_Vasilios_Tziokas>
 
 Ένα προς ένα:
 
-Hit Refresh: https://www.goodreads.com/book/photo/30835567-hit-refresh
-Where Is My Flying Car?: A Memoir of Future Past: https://www.goodreads.com/book/show/42036377-where-is-my-flying-car
-Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins: https://www.goodreads.com/book/show/35396029-deep-thinking
-Human Compatible: Artificial Intelligence and the Problem of Control: https://www.goodreads.com/book/show/44767248-human-compatible
-The Myth of the Rational Voter: Why Democracies Choose Bad Policies": www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter
-The Genetic Lottery: Why DNA Matters for Social Equality: https://www.goodreads.com/book/show/57423806-the-genetic-lottery
-2034: https://www.goodreads.com/book/show/54211065-2034
-Stubborn Attachments: https://www.goodreads.com/book/show/31283667-stubborn-attachments
-Darwin's Cathedral: https://www.goodreads.com/book/show/134827.Darwin_s_Cathedral
-Ravenna: Capital of Empire, Crucible of Europe: https://www.goodreads.com/book/show/50879762-ravenna
-Twenty Battles That Shaped Medieval Europe: https://www.goodreads.com/book/show/45034924-twenty-battles-that-shaped-medieval-europ
-Never Split the Difference: Negotiating As If Your Life Depended On It: https://www.goodreads.com/book/show/26156469-never-split-the-difference
+* Hit Refresh: <https://www.goodreads.com/book/photo/30835567-hit-refresh>
+* Where Is My Flying Car?: A Memoir of Future Past: <https://www.goodreads.com/book/show/42036377-where-is-my-flying-car>
+* Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins: <https://www.goodreads.com/book/show/35396029-deep-thinking>
+* Human Compatible: Artificial Intelligence and the Problem of Control: <https://www.goodreads.com/book/show/44767248-human-compatible>
+* The Myth of the Rational Voter: Why Democracies Choose Bad Policies: <https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter>
+* The Genetic Lottery: Why DNA Matters for Social Equality: <https://www.goodreads.com/book/show/57423806-the-genetic-lottery>
+* 2034: <https://www.goodreads.com/book/show/54211065-2034>
+* Stubborn Attachments: <https://www.goodreads.com/book/show/31283667-stubborn-attachments>
+* Darwin's Cathedral: <https://www.goodreads.com/book/show/134827.Darwin_s_Cathedral>
+* Ravenna: Capital of Empire, Crucible of Europe: <https://www.goodreads.com/book/show/50879762-ravenna>
+* Twenty Battles That Shaped Medieval Europe: <https://www.goodreads.com/book/show/45034924-twenty-battles-that-shaped-medieval-europ>
+* Never Split the Difference: Negotiating As If Your Life Depended On It: <https://www.goodreads.com/book/show/26156469-never-split-the-difference>
 
 Υπόλοιποι σύνδεσμοι:
 
-Golden: https://golden.com
-Notion: https://www.notion.so
-sound.xyz: https://sound.xyz
-Simple Minds συζήτηση με τον Δημήτρη: https://www.youtube.com/watch?v=GYoF9ZUQXL0
-
+* Golden: <https://golden.com>
+* Notion: <https://www.notion.so>
+* sound.xyz: <https://sound.xyz>
+* Simple Minds συζήτηση με τον Δημήτρη: <https://www.youtube.com/watch?v=GYoF9ZUQXL0>
 
 Για το βίντεο:
 
